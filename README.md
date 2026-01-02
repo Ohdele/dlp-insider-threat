@@ -17,3 +17,8 @@ The DLP simulation detected sensitive files successfully.
 
 The DLP simulation detected sensitive files successfully.
 [View Output in simulations/dlp/proof_log.txt](simulations/dlp/proof_log.txt)
+
+## Insider Threat Simulation Proof
+
+The simulation detected potential insider access.
+[View Output in simulations/investigation/proof_log.txt](simulations/investigation/proof_log.txt)
