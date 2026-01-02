@@ -22,3 +22,8 @@ The DLP simulation detected sensitive files successfully.
 
 The simulation detected potential insider access.
 [View Output in simulations/investigation/proof_log.txt](simulations/investigation/proof_log.txt)
+
+## DLP Automation Simulation Proof
+
+The simulation triggered automated notifications for detected sensitive files.
+[View Output in simulations/automation/proof_log.txt](simulations/automation/proof_log.txt)
