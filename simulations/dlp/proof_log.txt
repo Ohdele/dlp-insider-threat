@@ -1,2 +1,3 @@
+$ ./simulate_dlp.sh
 [INFO] Scanning for sensitive files...
 [ALERT] Sensitive file detected: /home/dele/Documents/Risk Register.xlsx

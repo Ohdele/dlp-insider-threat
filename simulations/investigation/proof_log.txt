@@ -1,2 +1,3 @@
+$ ./simulations/investigation/simulate_investigation.sh
 [INFO] Checking for suspicious file access...
 [ALERT] Potential insider access detected: [ALERT] Sensitive file detected: /home/dele/Documents/Risk Register.xlsx
