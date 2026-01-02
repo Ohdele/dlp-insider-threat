@@ -35,3 +35,8 @@ The simulation executed DLP scan, investigation, and automated response in seque
 
 ## Metrics Reporting Proof
 [View Output in simulations/metrics/proof_log.txt](simulations/metrics/proof_log.txt)
+
+## DLP Metrics Reporting Proof
+
+Simulated metrics generated from the full DLP workflow.
+[View Output in simulations/metrics/proof_log.txt](simulations/metrics/proof_log.txt)

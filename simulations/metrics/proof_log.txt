@@ -1,1 +1,6 @@
 $ ./simulations/metrics/report_metrics.sh
+[INFO] Generating DLP workflow metrics...
+DLP Workflow Metrics:
+Detections: 3
+Incidents: 1
+Automated Actions Triggered: 3
