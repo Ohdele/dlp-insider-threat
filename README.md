@@ -8,3 +8,12 @@ Enterprise-grade Tier 2 Blue Team project simulating Data Loss Prevention and In
 - Detect and respond to insider threats
 - Automate investigation workflows
 - Document findings and generate proof logs
+
+## DLP Simulation Proof
+
+The DLP simulation detected sensitive files successfully.  
+[View Output in proof_log.txt](simulations/dlp/proof_log.txt)
+## DLP Simulation Proof
+
+The DLP simulation detected sensitive files successfully.
+[View Output in simulations/dlp/proof_log.txt](simulations/dlp/proof_log.txt)
